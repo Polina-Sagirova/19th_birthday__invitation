@@ -1,0 +1,150 @@
+body {
+    background-color: #fdd2dc;
+    padding: 0px;
+    margin: 0px;
+    color: #820220;
+}
+@font-face {
+    font-family:"Playfair Display";
+    src:url(PlayfairDisplay-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family:"RaleWay";
+    src:url(Raleway-VariableFont_wght.ttf);
+}
+.first_page {
+    height: 616px;
+    width: 100%;
+}
+.intro_header {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+.intro {
+    margin: 10px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.location {
+    background-image: url(IMG_9849.png);
+    height: 320px;
+    padding-top: 10px;
+}
+.place_name {
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 8px;
+    text-align: right;
+
+}
+.place {
+    margin-right: 10px;
+    font-size: 20px;
+    margin-top: 0px;
+    text-align: right;
+}
+.look_map {
+    color: #fdd2dc;
+}
+.map {
+    text-align: center;
+    font-family: "Raleway";
+    padding: 10px;
+    background-color: #bc143b;
+    margin: 0px 15px;
+}
+.vertical-line {
+    border-left: 2px solid #bc143b;
+    height: 85px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.date {
+    text-align: right;
+    margin-right: 15px;
+    font-size: 35px;
+    font-family: "Playfair Display";
+    margin-top: 0px;
+}
+.aesthetic {
+    padding-left: 10px;
+}
+.aesthetic_name {
+    font-family: "Playfair Display";
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+.dress-code_name {
+    padding-left: 10px;
+}
+.dress-code_img {
+    width: 310px;
+}
+.wishlist, .info_bday{
+    padding-left: 10px;
+}
+h1, h2, h3 {
+    font-family:"Playfair Display";
+    font-size: 25px;
+}
+p, li {
+    font-family:"RaleWay";
+    font-size: 15px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+}
+ol {
+    padding-left: 20px;
+}
+ul {
+    padding-left: 15px;
+}
+.footer {
+    padding-left: 5px;
+    background-color: #820220;
+    color: #fdd2dc;
+    margin-bottom: 0px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 0px;
+}
+.dop_wishlist {
+    background-image: url(water.png);
+    padding-left: 10px;
+    color:#5e064b;
+    padding-bottom: 5px;
+}
+.dop_wishlist_name {
+    padding-top: 10px;
+}
+.info_bday {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.info_text {
+    margin-bottom: 0px;
+    padding-bottom: 15px;
+}
+.info_name {
+    margin-top: 5px;
+}
+.sweets {
+    color: #5e3009;
+    background-image: url(sand.png);
+    padding-left: 10px;
+}
+.sweets_name {
+    margin-top: 0px;
+    padding-top: 10px;
+}
+.sweets_list {
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+}
+#kari_tg {
+    color:#fdd2dc;
+}
